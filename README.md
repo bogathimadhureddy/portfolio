@@ -1,4 +1,3 @@
-# portfolio
 # Bogathi Madhusudarsan Reddy - Data Scientist
 
 ## Technical Background
