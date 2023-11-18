@@ -1,4 +1,4 @@
-# Bogathi Madhusudarsan Reddy - Data Scientist
+# Bogathi Madhusudarsan Reddy - Data Scientist | Machine Learning Enthusiast |Data Analyst
 
 ## Technical Background
 - **Data Science Techniques:** Data preprocessing, Exploratory data analysis (EDA), Predictive modelling, Data visualization.
