@@ -1,4 +1,54 @@
 title: Bogathi Madhusudarsan Reddy
 #logo : 
 description: Data Scientist | Machine Learning Enthusiast |Data Analyst
-theme: jekyll-theme-minimal
+# _config.yml
+
+remote_theme: pages-themes/cayman@v0.4.0
+
+title: Your Portfolio Title
+description: A brief description of your portfolio.
+
+# Skills
+skills:
+  - Data Science Techniques:
+    - Data preprocessing
+    - Exploratory data analysis (EDA)
+    - Predictive modeling
+    - Data visualization
+
+  - Programming Languages:
+    - Python
+    - SQL (MySQL)
+    - HTML (Basic)
+
+  - Libraries and Frameworks:
+    - Pandas
+    - NumPy
+    - Matplotlib
+    - Seaborn
+    - scikit-learn
+    - feature_engine
+    - stats (refers to statistical libraries)
+    - Flask (web development)
+    - Streamlit (web development)
+
+  - Auto EDA Libraries:
+    - Sweetviz
+    - Dtale
+
+  - Business Intelligence Tools:
+    - PowerBI
+
+  - Machine Learning:
+    - Supervised machine learning
+    - Unsupervised machine learning
+    - Development of predictive models
+    - Sentiment Analysis
+    - Natural Language Processing (Moderate)
+    - Deep Learning (Moderate)
+
+  - Other Skills:
+    - Data visualization
+    - Problem-solving for business-related issues
+    - Prediction techniques
+
