@@ -11,6 +11,23 @@
 ## Projects
 ### 1. Egg Crack Detection (Current)
 - **Client:** One of the leading poultry services providers in India.
+  
+- **Business Problem:** Manually Counting the number of cracked eggs (both white and brown eggs)
+is extremely laborious time-consuming work.
+
+- **Business Solution:** Developed a prediction model utilizing the YOLOv8 Deep Learning 
+framework to detect and predict both white and brown cracked eggs. The model was successfully 
+deployed using Streamlit.
+
+## Technique Stack:
+- • **Data Storage and Handling:** Google Drive, Roboflow.
+- • **Model Developing:** Python, Ultralytics, Google Colab.
+- • **Model Deployment:** Visual Studio, Streamlit.
+### Business Benefits:
+- • Achieved cost savings of at least $ 1M.
+- • Reduced manual counting of cracked eggs.
+- • Optimized the time-consuming egg crack detection process for efficiency.
+- • Increased the accuracy in predicting cracked eggs.
 
 ### 2. Web Scraping (Jun 2022 – Jul 2022)
 - Extracted and analyzed customer reviews of the Google Pixel 6a from the Flipkart website using Beautiful Soup, revealing valuable insights to drive product improvement and optimize customer satisfaction.
