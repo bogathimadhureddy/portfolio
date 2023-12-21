@@ -19,11 +19,11 @@ is extremely laborious time-consuming work.
 framework to detect and predict both white and brown cracked eggs. The model was successfully 
 deployed using Streamlit.
 
-  **Technique Stack:**
+**Technique Stack:**
 -  **Data Storage and Handling:** Google Drive, Roboflow.
 -  **Model Developing:** Python, Ultralytics, Google Colab.
 -  **Model Deployment:** Visual Studio, Streamlit.
--  **Business Benefits:**
+**Business Benefits:**
 -  Achieved cost savings of at least $ 1M.
 -  Reduced manual counting of cracked eggs.
 -  Optimized the time-consuming egg crack detection process for efficiency.
