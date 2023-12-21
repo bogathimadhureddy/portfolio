@@ -19,15 +19,15 @@ is extremely laborious time-consuming work.
 framework to detect and predict both white and brown cracked eggs. The model was successfully 
 deployed using Streamlit.
 
-# Technique Stack:
-- • **Data Storage and Handling:** Google Drive, Roboflow.
-- • **Model Developing:** Python, Ultralytics, Google Colab.
-- • **Model Deployment:** Visual Studio, Streamlit.
-# Business Benefits:
-- • Achieved cost savings of at least $ 1M.
-- • Reduced manual counting of cracked eggs.
-- • Optimized the time-consuming egg crack detection process for efficiency.
-- • Increased the accuracy in predicting cracked eggs.
+- **Technique Stack:**
+-  **Data Storage and Handling:** Google Drive, Roboflow.
+-  **Model Developing:** Python, Ultralytics, Google Colab.
+-  **Model Deployment:** Visual Studio, Streamlit.
+- **Business Benefits:**
+-  Achieved cost savings of at least $ 1M.
+-  Reduced manual counting of cracked eggs.
+-  Optimized the time-consuming egg crack detection process for efficiency.
+-  Increased the accuracy in predicting cracked eggs.
 
 ### 2. Web Scraping (Jun 2022 – Jul 2022)
 - Extracted and analyzed customer reviews of the Google Pixel 6a from the Flipkart website using Beautiful Soup, revealing valuable insights to drive product improvement and optimize customer satisfaction.
