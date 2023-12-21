@@ -19,7 +19,7 @@ is extremely laborious time-consuming work.
 framework to detect and predict both white and brown cracked eggs. The model was successfully 
 deployed using Streamlit.
 
--  **Technique Stack:**
+  **Technique Stack:**
 -  **Data Storage and Handling:** Google Drive, Roboflow.
 -  **Model Developing:** Python, Ultralytics, Google Colab.
 -  **Model Deployment:** Visual Studio, Streamlit.
