@@ -10,7 +10,7 @@
 
 ## Projects
 ### 1. Egg Crack Detection (Current)
-- Creating and implementing a Neural network model to design an egg classification system that allows a machine to directly classify the egg types and detect cracks.
+- **Client:** One of the leading poultry services providers in India.
 
 ### 2. Web Scraping (Jun 2022 – Jul 2022)
 - Extracted and analyzed customer reviews of the Google Pixel 6a from the Flipkart website using Beautiful Soup, revealing valuable insights to drive product improvement and optimize customer satisfaction.
